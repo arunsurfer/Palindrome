@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Genesys.Palindrome", "Genesys.Palindrome\Genesys.Palindrome.csproj", "{47316B0E-EB7F-4050-8110-AC9458F98D14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Genesys.Palindrome.Test", "Genesys.Palindrome.Test\Genesys.Palindrome.Test.csproj", "{A3A13F40-1FAD-4F8A-BF37-A41CF3F94CEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47316B0E-EB7F-4050-8110-AC9458F98D14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47316B0E-EB7F-4050-8110-AC9458F98D14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47316B0E-EB7F-4050-8110-AC9458F98D14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47316B0E-EB7F-4050-8110-AC9458F98D14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3A13F40-1FAD-4F8A-BF37-A41CF3F94CEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3A13F40-1FAD-4F8A-BF37-A41CF3F94CEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3A13F40-1FAD-4F8A-BF37-A41CF3F94CEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3A13F40-1FAD-4F8A-BF37-A41CF3F94CEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78CC8FAD-AAE4-4357-9BE8-453BC12F2AF4}
+	EndGlobalSection
+EndGlobal
